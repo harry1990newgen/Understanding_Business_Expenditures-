@@ -1,5 +1,3 @@
-# Understanding_Business_Expenditures-
-
 # 📊 Understanding Business Expenditures  
 ## OpEx vs CapEx vs RevEx vs FinEx
 
